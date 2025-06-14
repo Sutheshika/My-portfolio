@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Conference management system",
+    "imageSrc": "projects/project.png",
+    "description": "A full-stack website for managing an international conference.",
+    "skills": ["HTML", "CSS", "JavaScript","MySQL","Nodejs"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sutheshika/conference-management-system"
+  },
+  {
+    "title": "Inventory management system",
+    "imageSrc": "projects/project.png",
+    "description": "A full-stack website for managing inventory in grocery shop.",
+    "skills": ["React", "MongoDB", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sutheshika/inventory-management-food-market"
+  },
+  {
+    "title": "Java Library management system",
+    "imageSrc": "projects/project.png",
+    "description": "A library management system built using Java.",
+    "skills": ["java"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Sutheshika/java-LMS"
+  }
+]
